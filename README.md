@@ -1,3 +1,8 @@
+# docker-compose instructions
+
+Launch the app locally by calling the command "docker-compose run --service-ports web sbt run"
+Access the application at <http://localhost:9000> just like you would running it without docker.
+
 # play-scala-starter-example
 
 [<img src="https://img.shields.io/travis/playframework/play-scala-starter-example.svg"/>](https://travis-ci.org/playframework/play-scala-starter-example)
